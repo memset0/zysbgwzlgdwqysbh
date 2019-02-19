@@ -1,2 +1,3 @@
-# zong-you-sha-bi-guan-wo-zai-luogu-de-wan-quan-yin-si-bao-hu
-总有傻逼关我在洛谷的完全隐私保护
+# 总有傻逼关我在洛谷的完全隐私保护
+
+于是写了个脚本有人关了就 `alert` 
